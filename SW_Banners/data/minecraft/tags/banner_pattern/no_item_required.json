@@ -1,0 +1,13 @@
+{
+  "values": [
+    "starwars:imperial",
+    "starwars:republic",
+    "starwars:cis",
+    "starwars:jedi",
+    "starwars:phoenix",
+    "starwars:rebels",
+    "starwars:mudhorn",
+    "starwars:mythosaur_skull",
+    "starwars:naboo"
+  ]
+}

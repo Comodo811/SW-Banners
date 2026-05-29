@@ -1,0 +1,12 @@
+{
+  "id": "starwars_banners",
+  "pack": {
+    "description": "Star Wars Banner Patterns",
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": 88,
+    "pack_format": 88
+  }
+}
